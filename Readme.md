@@ -9,6 +9,8 @@ A Flow Launcher plugin to search and open directories you've visited with
 | :-----------------------------------: | :---------------------------------: |
 | ![Light](./assets/preview_light.webp) | ![Dark](./assets/preview_dark.webp) |
 
+https://github.com/user-attachments/assets/4fa83473-ab12-4389-880e-d6ceb3de8e99
+
 <sub>Using
 [yuruyurau/Flow.Launcher.Theme.A](https://github.com/yuruyurau/Flow.Launcher.Theme.A)
 for the preview.</sub>
