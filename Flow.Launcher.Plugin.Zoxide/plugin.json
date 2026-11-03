@@ -1,0 +1,12 @@
+{
+    "ID": "64031E01-DF3C-427C-B14A-1D503B4F8F9A",
+    "ActionKeyword": "z",
+    "Name": "Zoxide",
+    "Description": "zoxide commands to search and open folders.",
+    "Author": "yuruyurau",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/yuruyurau/Flow.Launcher.Plugin.Zoxide",
+    "IcoPath": "assets/icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.Zoxide.dll"
+}
