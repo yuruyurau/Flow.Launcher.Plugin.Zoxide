@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using Flow.Launcher.Plugin;
-namespace Flow.Launcher.Plugin.ZoxideSimple
+namespace Flow.Launcher.Plugin.Zoxide
 {
     public class Main : IPlugin
     {
